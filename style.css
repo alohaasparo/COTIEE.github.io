@@ -1,0 +1,42 @@
+body{
+   background-color: rgb(48, 48, 48);   
+}
+h1{
+    color: white;
+    font-family:cursive;
+    text-align: center;
+    justify-content:center ;
+}
+.section{
+    font-size: 50px;
+    display: flex;
+    color: white;
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}  
+button{
+    color: black;   
+    width: 170px;
+    height: 50px;     
+    
+    border-radius: 10px;
+    border: none;
+    box-shadow: 0 0 20px 8px rgba(0, 0, 0, 0.304);
+    background-color: #dfdfdf;
+}
+
+button:hover{
+    background-color: rgb(117, 44, 44);
+    color: white;
+}
+.section1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
