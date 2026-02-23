@@ -75,7 +75,7 @@ img#img4{
 img#img5{
     position: absolute;
     left: 50%;
-    top: 40%;
+    top: 30%;
     transform: translate(-50%, -50%);
     width: 230px;
     height: 400px;
@@ -184,5 +184,6 @@ button:hover{
     justify-content: center;
     align-items: center;
 }
+
 
 
